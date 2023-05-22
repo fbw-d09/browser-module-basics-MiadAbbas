@@ -13,3 +13,5 @@ function scrollWindow() {
     }
   });
 }
+
+export{scrollWindow };
